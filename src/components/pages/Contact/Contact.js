@@ -34,6 +34,7 @@ export default function Contact() {
                     <button type="submit" class="btn btn-primary">Submit</button>
                 </div>
 			</form>
+			<p className='py-3'> Although this is one fine looking form, it is not fully functional at this time. Please use the email icon in the footer to contact me.</p>
 		</div>
 	);
 }

@@ -6,6 +6,7 @@ import linkedIn from '../../images/linkedin-sign.png'
 // import resume from '../../images/resumeimg.png'
 // import resumePDF from '../../images/2022-Linda-Lovero-Waterhouse-resume.pdf'
 import overflow from '../../images/stackoverflow.png'
+import email from '../../images/email.png'
 
 export default function Footer() {
     return (
@@ -28,7 +29,13 @@ export default function Footer() {
                 href="https://stackoverflow.com/users/17100590/linda-lw"
             >
                 <img src={overflow} alt="Linda-Waterhouse-StackOverflow" width='75' height='75'  ></img>
-            </a>        
+            </a>   
+            <a
+                className="icon" target='_blank'
+                href="mailto:lindalw03@gmail.com"
+            >
+                <img src={email} alt="Linda-Waterhouse-email" width='75' height='75'  ></img>
+            </a>         
 
             
              {/* <a                
