@@ -1,24 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.516fab1d.chunk.css",
-    "main.js": "/static/js/main.149af742.chunk.js",
-    "main.js.map": "/static/js/main.149af742.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/css/2.68a81a89.chunk.css": "/static/css/2.68a81a89.chunk.css",
-    "static/js/2.7c660599.chunk.js": "/static/js/2.7c660599.chunk.js",
-    "static/js/2.7c660599.chunk.js.map": "/static/js/2.7c660599.chunk.js.map",
+    "main.css": "/static/css/main.789d4978.css",
+    "main.js": "/static/js/main.9f8405c7.js",
+    "static/media/Work-Day-Planner.png": "/static/media/Work-Day-Planner.af841e9521b121c81c3d.png",
+    "static/media/Hot-air-balloons-cropped.jpg": "/static/media/Hot-air-balloons-cropped.af0a87bcb2f1e0ea856e.jpg",
+    "static/media/Food-for-days-50.png": "/static/media/Food-for-days-50.8c4502821f39fa1b2deb.png",
+    "static/media/Another-first-question-image.png": "/static/media/Another-first-question-image.ffe4c43c7de983e96e87.png",
+    "static/media/Barker-homepage-400.png": "/static/media/Barker-homepage-400.63769553b146d7b472d1.png",
+    "static/media/2022-Linda-Lovero-Waterhouse-resume.pdf": "/static/media/2022-Linda-Lovero-Waterhouse-resume.7bf49fa7f8776933df50.pdf",
+    "static/media/Five-day-forecast-400.png": "/static/media/Five-day-forecast-400.2bf1436ee93d8a5abffe.png",
+    "static/media/resumeimg.png": "/static/media/resumeimg.2febce2f17af6b157c19.png",
+    "static/media/Home-page-of-Note-taker.PNG": "/static/media/Home-page-of-Note-taker.0584e8c6da523e32f259.PNG",
     "index.html": "/index.html",
-    "precache-manifest.89c8477b04a216489ca55b2ad4a0d3db.js": "/precache-manifest.89c8477b04a216489ca55b2ad4a0d3db.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.68a81a89.chunk.css.map": "/static/css/2.68a81a89.chunk.css.map",
-    "static/css/main.516fab1d.chunk.css.map": "/static/css/main.516fab1d.chunk.css.map",
-    "static/media/Another-first-question-image.png": "/static/media/Another-first-question-image.4a9cb067.png",
-    "static/media/Barker-homepage-cropped.png": "/static/media/Barker-homepage-cropped.7c3b64ea.png",
-    "static/media/Five-day-forecast-cropped.png": "/static/media/Five-day-forecast-cropped.5c39b70b.png",
-    "static/media/Home-page-of-Note-taker.PNG": "/static/media/Home-page-of-Note-taker.0108544d.PNG",
-    "static/media/Hot-air-balloons-cropped.jpg": "/static/media/Hot-air-balloons-cropped.b96b9db3.jpg",
-    "static/media/Work-Day-Planner.png": "/static/media/Work-Day-Planner.a298f21e.png",
-    "static/media/homepageSS.png": "/static/media/homepageSS.8203602f.png"
-  }
+    "main.789d4978.css.map": "/static/css/main.789d4978.css.map",
+    "main.9f8405c7.js.map": "/static/js/main.9f8405c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.789d4978.css",
+    "static/js/main.9f8405c7.js"
+  ]
 }
