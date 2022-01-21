@@ -1,3 +1,8 @@
+p {
+    font-size: 1.25rem;
+    font-family: 'El Messiri', sans-serif;
+}
+
 .skills {
     padding-top:20px;
     text-align: center;
