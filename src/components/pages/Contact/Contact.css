@@ -1,0 +1,15 @@
+form {
+    border-style: solid;
+    border-width: 3px;
+    padding: 5px;
+}
+
+#contact, #submit{
+        background-color: rgb(17, 66, 23);
+    
+}
+
+/* #submit{
+    background-color: rgb(26, 96, 34);
+
+} */

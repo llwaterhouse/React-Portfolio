@@ -1,0 +1,32 @@
+.skills {
+    padding-top:20px;
+    text-align: center;
+    background: linear-gradient(white, var(--primary));
+}
+
+.lists {
+    display: flex;
+    justify-content: center;
+}
+
+.lists ul {
+    list-style: none;
+    padding-top: 20px;
+    padding-right: 0px;
+    padding-bottom: 10px;
+    padding-left: 0px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    flex: 1;
+    /* background-color: #57606f; */
+    background-color:#544160;
+    border: 2px solid white;
+    border-radius: 15%;
+    color: white;
+}
+
+.lists ul h3 {
+    font-weight: bold;
+}

@@ -6,6 +6,7 @@ import React from 'react';
 function Header({ currentPage, handlePageChange }) {
   return (
     <div>
+      <div className='banner'></div>
     <nav className="d-flex justify-content-between">
       <h1 className="align-self-end w-50 py-1 px-3">Linda Waterhouse</h1>
     <ul className="nav nav-tabs py-1 ">
@@ -20,7 +21,7 @@ function Header({ currentPage, handlePageChange }) {
         </a>
       </li>
       <li className="nav-item">
-        <a
+        <a 
           href="#projects"
           onClick={() => handlePageChange('Projects')}
           // Check to see if the currentPage is `Portfolio`, and if so we use the active link class from bootstrap. Otherwise, we set it to a normal nav-link

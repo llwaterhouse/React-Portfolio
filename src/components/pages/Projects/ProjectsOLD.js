@@ -12,7 +12,6 @@ export default function Projects() {
 	return (
 		<div className="container mt-5">
 			<h1 className="text-end px-5 mb-5 text-white py-3" id="projects">Projects</h1>
-			
 			<div className="row card-group py-3">
 				<div className="col-sm-6">
 					<div className="card">

@@ -3,8 +3,8 @@ import './Footer.css';
 
 import github from '../../images/GitHub-Mark-120px-plus.png'
 import linkedIn from '../../images/linkedin-sign.png'
-// import resume from '../../images/resumeimg.png'
-// import resumePDF from '../../images/2022-Linda-Lovero-Waterhouse-resume.pdf'
+import resume from '../../images/resumeimg.png'
+import resumePDF from '../../images/2022-Linda-Lovero-Waterhouse-resume.pdf'
 import overflow from '../../images/stackoverflow.png'
 import email from '../../images/email.png'
 
@@ -38,13 +38,12 @@ export default function Footer() {
             </a>         
 
             
-             {/* <a                
+             <a                
                 className="icon" target='_blank'
-                // href={resumePDF} download
-                href="https://www.linkedin.com/in/lindalwaterhouse/"
+                href={resumePDF} download
             >
-            <img src={resume} alt="Linda Waterhouse Resume" > </img>
-             </a> */}
+            <img src={resume} alt="Linda Waterhouse Resume" width='75' height='75'/>
+             </a>
             </div>
 
             <div className="text-center py-3">Icons made by <a href="https://www.flaticon.com/authors/dave-gandy" title="Dave Gandy">Dave Gandy</a> from <a

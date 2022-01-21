@@ -1,0 +1,23 @@
+.align-self-end {color:#363a42;
+    font-family: 'El Messiri', sans-serif;
+    font-weight: bolder;
+    font-size: 3.0rem;
+    margin-top: 5px;
+
+}
+
+.nav-link {
+    font-size: x-large;
+    font-family: 'El Messiri', sans-serif;
+}
+
+.banner {
+    background-image: url('../../images/Hot-air-balloons-cropped.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    overflow: hidden;
+}

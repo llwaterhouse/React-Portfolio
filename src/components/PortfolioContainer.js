@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import Header from './Header/Header';
 import Footer from './Footer/Footer';
 import About from './pages/About/About';
-import Projects from './pages/Projects/Projects';
+import Projects from './pages/Projects/ProjectsOLD';
 import Contact from './pages/Contact/Contact';
 
 export default function PortfolioContainer() {
