@@ -2,6 +2,10 @@ p {
     font-size: 1.25rem;
     font-family: 'El Messiri', sans-serif;
 }
+#about {
+    background-color:#B40001 ;
+}
+
 
 .skills {
     padding-top:20px;

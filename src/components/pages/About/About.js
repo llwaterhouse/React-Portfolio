@@ -4,7 +4,7 @@ import './About.css';
 export default function About() {
 	return (
 		<div className="container mt-5">
-			<h1 className="text-end px-5 mb-5 bg-danger text-white py-3">About</h1>
+			<h1 className="text-end px-5 mb-5 text-white py-3" id="about">About</h1>
 			<div className="card text-center py-3">
 				<div className="card-body">
 					<section className="card-text">
