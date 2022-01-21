@@ -16,9 +16,10 @@ export default function Projects() {
 
 			<div className="row card-group py-3">
 				<div className="col-sm-6">
-					<div className="card">
+					<div className="card  border-secondary">
 						<img className="card-img-top" src={Barker} alt="Barker" />
 						<div className="card-body d-flex justify-content-around">
+							<h4 className="card-title">Barker</h4>	
 							<a href="https://stevekoutsodontis.github.io/Barker/" className="btn btn-secondary">
 								Deployed
 							</a>
@@ -29,9 +30,10 @@ export default function Projects() {
 					</div>
 				</div>
 				<div className="col-sm-6">
-					<div className="card">
+					<div className="card  border-secondary">
 						<img className="card-img-top" src={Weather} alt="Weather Dashboard" />
 						<div className="card-body d-flex justify-content-around">
+							<h4 className="card-title">Weather Dashboard</h4>
 							<a href="https://llwaterhouse.github.io/Weather-Dashboard/" className="btn btn-secondary">
 								Deployed
 							</a>
@@ -48,6 +50,7 @@ export default function Projects() {
 					<div className="card border-secondary">
 						<img className="card-img-top" src={Quiz} alt="Survival Quiz" />
 						<div className="card-body d-flex justify-content-around">
+						<h4 className="card-title">Survival Quiz</h4>
 							<a href="https://llwaterhouse.github.io/Survival-Quiz" className="btn btn-secondary">
 								Deployed
 							</a>
@@ -61,7 +64,7 @@ export default function Projects() {
 					<div className="card border-secondary">
 						<img className="card-img-top" src={Work} alt="Work Day Planner" />
 						<div className="card-body d-flex justify-content-around">
-							<h5 className="card-title">Work Day Planner</h5>
+							<h4 className="card-title">Work Day Planner</h4>
 							<a href="https://github.com/llwaterhouse/Work-Day-Planner" className="btn btn-secondary">
 								Deployed
 							</a>
@@ -78,6 +81,7 @@ export default function Projects() {
 					<div className="card border-secondary">
 						<img className="card-img-top" src={Food} alt="Food-For-Days" />
 						<div className="card-body d-flex justify-content-around">
+							<h4 className="card-title">Food For Days</h4>
 							<a href="https://food-for-days.herokuapp.com/" className="btn btn-secondary">
 								Deployed
 							</a>
@@ -92,6 +96,7 @@ export default function Projects() {
 					<div className="card border-secondary">
 						<img className="card-img-top" src={Note} alt="Notetaker" />
 						<div className="card-body d-flex justify-content-around">
+							<h4 className="card-title">Notetaker</h4>
 							<a href="https://notetaker-powered-by-express.herokuapp.com/" className="btn btn-secondary">
 								Deployed
 							</a>
