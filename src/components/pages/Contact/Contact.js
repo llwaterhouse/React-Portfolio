@@ -46,7 +46,7 @@ export default function Contact() {
 					<label htmlFor="phoneNumber" className="form-label">
 						Phone Number
 					</label>
-					<input type="text" className="form-control" id="phoneNumber" placeholder="+1 (XXX) XXX-XXXX" name="phone" />
+					<input type="text" className="form-control" id="phoneNumber" placeholder="(XXX) XXX-XXXX" name="phone" />
 				</div>
 				<div className="col-md-12">
 					<label htmlFor="comments" className="form-label">
