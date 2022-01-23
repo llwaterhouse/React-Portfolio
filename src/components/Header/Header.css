@@ -8,6 +8,10 @@
 .nav-link {
     font-size: x-large;
     font-family: 'El Messiri', sans-serif;
+
+}
+.nav-link:hover {
+    background-color:#c4cad8 !important;
 }
 
 .banner {

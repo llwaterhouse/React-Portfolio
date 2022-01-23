@@ -36,20 +36,19 @@ export default function About() {
 				<div className="lists">
 					<ul>
 						<h3>Front-End Proficiencies</h3>
-						<li>JavaScript</li>
+						<li>JavaScript/jQuery</li>
 						<li>jQuery</li>
-						<li>React.js</li>
+						<li>React</li>
 						<li>Bootstrap</li>
-						<li>CSS</li>
-						<li>HTML</li>
-						<li>Local &amp; Session Storage</li>
+						<li>HTML/CSS</li>
+						<li>Responsive Design</li>
 					</ul>
 					<ul>
 						<h3>Technologies/Skills</h3>
-						<li>Git</li>
 						<li>Heroku</li>
 						<li>Insomnia</li>
 						<li>MySQL Workbench</li>
+            <li>Git/Version Control</li>
 						<li>MongoDB Atlas</li>
 						<li>Visual Studio Code, Eclipse, IntelliJ IDEA</li>
             <li>Data Structures</li>
@@ -57,7 +56,7 @@ export default function About() {
 					</ul>
 					<ul>
 						<h3>Back-End Proficiencies</h3>
-						<li>API's</li>
+						<li>RESTful API's</li>
 						<li>Node.js</li>
 						<li>Express.js</li>
 						<li>GraphQL</li>

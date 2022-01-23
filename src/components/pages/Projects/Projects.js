@@ -40,6 +40,7 @@ export default function Projects() {
 							<a href="https://github.com/llwaterhouse/Weather-Dashboard/" className="btn btn-secondary">
 								GitHub
 							</a>
+						
 						</div>
 					</div>
 				</div>
