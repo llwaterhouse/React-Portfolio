@@ -6,6 +6,7 @@ My updated portfolio build with React.
 * [Installation](#installation)
 * [Usage](#usage)
 * [Built With](#built-with)
+* [Screenshot](#screenshot)
 * [Author](#author)
 * [Questions](#questions)
 * [Repository](#repository)
@@ -41,6 +42,10 @@ or click on https://llwaterhouse.github.io/React-Portfolio
 * node.js
 * React
 * EmailJS.com
+
+## Screenshot
+
+![About page](./About-page.PNG)
 
 ## Author
 
