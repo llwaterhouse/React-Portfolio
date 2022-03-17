@@ -4,7 +4,7 @@ import './Footer.css';
 import github from '../../images/GitHub-Mark-120px-plus.png';
 import linkedIn from '../../images/linkedin-sign.png';
 import resume from '../../images/resumeimg.png';
-import resumePDF from '../../images/2022-Linda-Lovero-Waterhouse-resume.pdf';
+import resumePDF from '../../images/2022-03-Linda-Lovero-Waterhouse-resume.pdf';
 import overflow from '../../images/stackoverflow.png';
 import email from '../../images/email.png';
 
