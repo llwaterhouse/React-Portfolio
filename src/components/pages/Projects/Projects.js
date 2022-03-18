@@ -93,6 +93,7 @@ export default function Projects() {
 					</div>
 				</div>
 
+
 				<div className="col-sm-6">
 					<div className="card border-secondary">
 						<img className="card-img-top" src={Note} alt="Notetaker" />
