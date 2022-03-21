@@ -36,7 +36,7 @@ export default function About() {
 				<div className="lists">
 					<ul>
 						<h3>Front-End Proficiencies</h3>
-						<li>JavaScript/jQuery</li>
+						<li>JavaScript</li>
 						<li>jQuery</li>
 						<li>React</li>
 						<li>Bootstrap</li>
@@ -48,11 +48,12 @@ export default function About() {
 						<li>Heroku</li>
 						<li>Insomnia</li>
 						<li>MySQL Workbench</li>
-            <li>Git/Version Control</li>
+						<li>NPM</li>
+            			<li>Git/Version Control</li>
 						<li>MongoDB Atlas</li>
 						<li>Visual Studio Code, Eclipse, IntelliJ IDEA</li>
-            <li>Data Structures</li>
-            <li>Algorithms</li>
+           				<li>Data Structures</li>
+            			<li>Algorithms</li>
 					</ul>
 					<ul>
 						<h3>Back-End Proficiencies</h3>
